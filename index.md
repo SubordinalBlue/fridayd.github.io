@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Mic Check...
 
-_Check One_
-**Check Two**
-`Check, Check`
+1. _Check One_
+2. **Check Two**
+3. `Check, Check`
 
 ### Markdown
 
